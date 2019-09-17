@@ -3,7 +3,7 @@ dependencies {
 }
 repositories {
     maven {
-        url 'https://api.bitbucket.org/1.0/repositories/epictechdevteam/public-release/raw/master'
+        url 'https://api.bitbucket.org/2.0/repositories/epictechdevteam/public-release/src/master'
     }
     maven {
         url 'https://oss.sonatype.org/content/repositories/ksoap2-android-releases/'
